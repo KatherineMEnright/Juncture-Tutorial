@@ -15,10 +15,7 @@
 
 
 # This essay is about the Mangosteen
-
-<param ve-image 
        
-
 The mangosteen is a non-native fruit found in Singapore. [^1]
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
