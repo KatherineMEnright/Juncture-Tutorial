@@ -8,9 +8,6 @@
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q170662"> <!-- Mangosteen -->
 
 
@@ -20,8 +17,7 @@ The mangosteen is a non-native fruit found in Singapore. [^1]
 <param ve-image 
        manifest="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg">label="Girl with a Pearl Earring" 
        description="Photograph of mangosteen" 
-       license="public domain" 
-       credit="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
+       license="public domain">
 
 ## Map
 
