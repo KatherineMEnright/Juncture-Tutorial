@@ -8,10 +8,9 @@
 
 <param ve-entity eid="Q170662"> <!-- Mangosteen -->
 
-
-# This essay is about the Mangosteen
+## This essay is about the Mangosteen
        
-The mangosteen is a non-native fruit found in Singapore. [^1]
+The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore. [^1]
 <param ve-image 
        url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        label="Mangosteen Photograph" 
@@ -20,9 +19,8 @@ The mangosteen is a non-native fruit found in Singapore. [^1]
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+Mangosteens are found in Singapore.
+<param ve-map center="Q334" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
