@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org/KatherineMEnright/Juncture-Tutorial">></a>
+<a href="https://juncture-digital.org/KatherineMEnright/Juncture-Tutorial"></a>
 <param ve-config 
        title="Essay Title"
        author="Author"
