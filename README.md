@@ -1,9 +1,9 @@
-<a href="https://juncture-digital.org/KatherineMEnright/Juncture-Tutorial"></a>
 <param ve-config 
        title="Essay Title"
        author="Author"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg" 
        layout="vertical">
+       
 ## This essay is about the Mangosteen
        
 The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore. [^1]
