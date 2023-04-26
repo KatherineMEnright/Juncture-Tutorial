@@ -12,7 +12,14 @@ The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapo
        label="Mangosteen Photograph" 
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection."
        license="public domain">
+       
+Marianne North painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875.
 
+<param ve-image 
+       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
+       label="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
+       description="Held by Kew Gardens."
+       license="CC BY-NC">
 ## Map
 
 Mangosteens are found in Singapore.
